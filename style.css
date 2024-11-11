@@ -1,0 +1,95 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Poppins;
+
+}
+
+header{
+    word-spacing: 40px;
+    margin-top: 40px;
+    margin-left: 50px;
+    height: 70px;
+    width: auto;
+   
+
+
+}
+.texto-log{
+    word-spacing: 1px;
+}
+
+.botao{
+    margin-left: 40px;
+    width: 124px;
+    height: 51px;
+    top: 32px;
+    left: 420px;
+    opacity: 0px;
+    border-radius: 10px;
+    border: none;
+    background-color:green ;
+    color: white;
+
+}
+
+h1{
+    width: 582px;
+    height: 164px;
+    top: 308px;
+    left: 801px;
+    gap: 0px;
+    opacity: 0px;
+    display: inline-block;
+    position: relative;
+    margin-left: -137px;
+    margin-bottom: -10px;
+    font-size: 47px;
+    font-weight: 700;
+    line-height: 82px;
+    letter-spacing: 0.5961538553237915px;
+}
+
+h2{
+    width: 311px;
+    height: 99px;
+    position: relative;
+    top: 364px;
+    left: 660px;
+    gap: 0px;
+    opacity: 0px;
+    color: #4b505a;
+    font-size: 13px;
+    font-weight: 400;
+
+}
+
+h3{
+    width: 112px;
+    height: 27px;
+    top: 349px;
+    left: 661px;
+    gap: 0px;
+    opacity: 0px;
+    position: relative;
+    color:  #6FBF44;
+    ;
+}
+
+img{
+    width: 470.18px;
+    height: 438px;
+    top: -39px;
+    left: 81px;
+    gap: 0px;
+    opacity: 0px;
+position: relative;    
+
+}
+
+
+
+
+
+
